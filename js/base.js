@@ -64,7 +64,7 @@ function Base() {
         $('#menuWrap').optiscroll({ forceScrollbars: true, maxTrackSize: 20, preventParentScroll: true });
 
         // 音乐播放器初始化
-        bndongJs.musicInit();
+        // bndongJs.musicInit();
 
         // 滚动监听
         $(window).scroll( function() { bndongJs.scrollMonitor(); });
@@ -556,7 +556,7 @@ function Base() {
     /**
      * 播放器初始化
      */
-    this.musicInit = function() {};
+    // this.musicInit = function() {};
 
     /**
      * 结束Loading页面
@@ -777,7 +777,7 @@ function Base() {
             $('#footer').prepend('<div class="footer-image"></div>');
             setInterval(function(){
                 var footer = $('#footer');
-                var themeHtml = '<p id="ThemeAuthors" style="color: #444;z-index: 999;">- Theme Author：<a href="https://www.cnblogs.com/bndong/" target="_blank" style="color:#444;">BNDong</a> -</p></div>';
+                var themeHtml = '<p id="ThemeAuthors" style="color: #444;z-index: 999;">- Theme Author：<a href="https://www.cnblogs.com/fofade/" target="_blank" style="color:#444;">Fofade</a> -</p></div>';
                 if ($('#ThemeAuthors').length == 0) {
                     $('#footer').append(themeHtml);
                 } else {
