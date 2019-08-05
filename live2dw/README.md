@@ -1,14 +1,19 @@
-<!-- 滚动进度 -->
-<div id="bottomProgressBar"></div>
+# 关于添加看板娘
 
-<!-- 音乐播放器 -->
-<!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">-->
-<!--<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js"></script>-->
-<!--<div id="aplayer" class="aplayer" data-id="316722029" data-lrctype="0" data-server="netease" data-type="playlist" data-fixed="true" data-listfolded="true"></div>-->
-<!--<script src="https://unpkg.com/meting@1.2/dist/Meting.min.js"></script>-->
+因为觉得作者设置的页面左下角的网易云音乐并不实用所以将其改成看板娘
 
+但是由于太菜，不能很好的理解live2d的官方文档
+
+数次度娘都是一些不能用的版本，不是配置少双引号，就是路径错误，看了十几个博客竟没有一个是对的
+
+点进博客根本就没有所谓的看板娘，看页面源码也都是error
+
+几经搜索，终于在一个小时后找到正确配置之法
+
+下面是我的设置，具体代码在html/pageFooter.html
+```bash
 <!-- 看板娘-->
-<script src="https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/lib/L2Dwidget.min.js"></script>
+<script src="https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/lib/L2Dwidget.min.js"></script> 
 <script src="https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/lib/L2Dwidget.0.min.js"></script>
 <script>
     L2Dwidget.init({
@@ -41,5 +46,11 @@
     <canvas id="live2dcanvas" width="200" height="440"
             style="position: fixed; opacity: 1; left: 0px; bottom: 0; z-index: 99999; pointer-events: none;"></canvas>
 </div>
-<!-- 右下角菜单 -->
-<div id="rightMenu"></div>
+```
+
+若自定义只需要将对应的文件链接修改即可
+
+live2dw内的文件是由hexo自动生成的
+
+如果需要换模型最简单的办法是去别人的博客看页面源码，把它的对应链接拷过来！
+当然也可以自己生成，建议自己生成！
