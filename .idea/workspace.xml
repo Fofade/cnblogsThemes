@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862d4cba-5a98-4250-82cd-b9e2ec134b5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/base.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sidebar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,72 +15,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/codeDoxy.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/codeObsidian.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/codePrettify.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/codeSunburst.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/gallery-clean.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/jquery.mCustomScrollbar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/marvin.nav2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/menu_bubble.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/optiscroll.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/base.min.css">
+        <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="81411" selection-start-column="81411" selection-end-column="81411" />
+            <state relative-caret-position="161">
+              <caret line="36" column="16" lean-forward="true" selection-end-line="75" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="96" column="32" selection-end-line="271" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,10 +75,10 @@
         <option value="$PROJECT_DIR$/live2dw/lib/L2Dwidget.min.js" />
         <option value="$PROJECT_DIR$/live2dw/README.md" />
         <option value="$PROJECT_DIR$/html/pageFooter.html" />
-        <option value="$PROJECT_DIR$/html/sidebar.html" />
         <option value="$PROJECT_DIR$/js/base.js" />
         <option value="$PROJECT_DIR$/css/base.css" />
         <option value="$PROJECT_DIR$/css/base.min.css" />
+        <option value="$PROJECT_DIR$/html/sidebar.html" />
       </list>
     </option>
   </component>
@@ -153,17 +106,6 @@
             <path>
               <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
               <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="base.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
@@ -224,12 +166,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565006871752</updated>
       <workItem from="1565006873616" duration="19786000" />
-      <workItem from="1565047005509" duration="6421000" />
+      <workItem from="1565047005509" duration="6724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26207000" />
+    <option name="totallyTimeSpent" value="26510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -244,7 +186,7 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2529412" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2529412" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -436,16 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -531,17 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="33" column="283" selection-start-line="33" selection-start-column="278" selection-end-line="33" selection-end-column="283" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="193" column="60" lean-forward="true" selection-start-line="193" selection-start-column="13" selection-end-line="193" selection-end-column="62" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,8 +576,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/base.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="81411" selection-start-column="81411" selection-end-column="81411" />
+        <state relative-caret-position="44">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="96" column="32" selection-end-line="271" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="36" column="16" lean-forward="true" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
