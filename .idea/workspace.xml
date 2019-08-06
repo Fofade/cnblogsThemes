@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862d4cba-5a98-4250-82cd-b9e2ec134b5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/cnblog.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/cnblog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live2dw/lib/L2Dwidget.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/live2dw/lib/L2Dwidget.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live2dw/lib/L2Dwidget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/live2dw/lib/L2Dwidget.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/pageFooter.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/pageFooter.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="70" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="105" />
+            <state relative-caret-position="352">
+              <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -32,57 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/cnblog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-end-column="27" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#blockquote#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-                <element signature="e#35#41#0" expanded="true" />
-                <element signature="e#41#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/live2dw/lib/L2Dwidget.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/live2dw/lib/L2Dwidget.0.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/pageHeading.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2552">
-              <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+            <state relative-caret-position="132">
+              <caret line="237" column="32" lean-forward="true" selection-start-line="237" selection-start-column="20" selection-end-line="237" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
@@ -92,13 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/base.js">
+        <entry file="file://$PROJECT_DIR$/html/pageHeading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39336">
-              <caret line="899" column="4" selection-start-line="899" selection-start-column="4" selection-end-line="899" selection-end-column="4" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="88">
+              <caret line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -133,11 +79,11 @@
         <option value="$PROJECT_DIR$/js/base.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/html/pageHeading.html" />
-        <option value="$PROJECT_DIR$/html/pageFooter.html" />
         <option value="$PROJECT_DIR$/html/sidebar.html" />
         <option value="$PROJECT_DIR$/js/cnblog.js" />
         <option value="$PROJECT_DIR$/live2dw/lib/L2Dwidget.0.min.js" />
         <option value="$PROJECT_DIR$/live2dw/lib/L2Dwidget.min.js" />
+        <option value="$PROJECT_DIR$/html/pageFooter.html" />
       </list>
     </option>
   </component>
@@ -175,17 +121,6 @@
               <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
               <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
-              <item name="live2dw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cnblogsThemes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblogsThemes" type="462c0819:PsiDirectoryNode" />
-              <item name="live2dw" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,12 +166,12 @@
       <option name="presentableId" value="Default" />
       <updated>1565006871752</updated>
       <workItem from="1565006873616" duration="19786000" />
-      <workItem from="1565047005509" duration="2385000" />
+      <workItem from="1565047005509" duration="3912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22171000" />
+    <option name="totallyTimeSpent" value="23698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -272,37 +207,6 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Learn" order="0" weight="0.3297587" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19504021" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.28235295" />
-      <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -591,40 +495,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/pageHeading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/base.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39336">
           <caret line="899" column="4" selection-start-line="899" selection-start-column="4" selection-end-line="899" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="105" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2552">
-          <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -657,6 +533,34 @@
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="237" column="32" lean-forward="true" selection-start-line="237" selection-start-column="20" selection-end-line="237" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pageHeading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pageFooter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#div#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

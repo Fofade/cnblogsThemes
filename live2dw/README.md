@@ -13,22 +13,20 @@
 下面是我的设置，具体代码在html/pageFooter.html
 ```bash
 <!-- 看板娘-->
-<script src="https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/lib/L2Dwidget.min.js"></script> 
-<script src="https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/lib/L2Dwidget.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/live2dw/lib/L2Dwidget.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/master/live2dw/lib/L2Dwidget.0.min.js"></script>
 <script>
     L2Dwidget.init({
-        "tagMode": false,
-        "debug": false,
         "model": {
             "scale": 1,
             "hHeadPos": 0.5,
             "vHeadPos": 0.618,
-            "jsonPath": "https://raw.githubusercontent.com/Fofade/cnblogsThemes/master/live2dw/assets/z16.model.json"
+            "jsonPath": "https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/live2dw/assets/z16.model.json"
         },
         "display": {
             "superSample": 2,
-            "width": 150,
-            "height": 300,
+            "width": 100,
+            "height": 220,
             "position": "left",
             "hOffset": 0,
             "vOffset": -20
@@ -40,7 +38,7 @@
         "react": {
             "opacityDefault": 0.7,
             "opacityOnHover": 0.2
-        }, "log": false
+        }
     });</script>
 <div id="live2d-widget">
     <canvas id="live2dcanvas" width="200" height="440"
