@@ -515,7 +515,7 @@ function Base() {
                         var patch = op.text();
                         var html = '<img class="comment-avatar" src="'+patch+'"/>';
                     } else {
-                        var html = '<img class="comment-avatar" src="https://files.cnblogs.com/files/bndong/no_avatar.gif"/>';
+                        var html = '<img class="comment-avatar" src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/no_avatar.gif"/>';
                     }
                     $(commentList[i]).before(html);
                 }

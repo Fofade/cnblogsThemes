@@ -3230,7 +3230,7 @@ button {
     outline: none;
     cursor: pointer;
     /*background: #000 url(https://raw.githubusercontent.com/BNDong/Cnblogs-Theme-SimpleMemory/master/img/menu_bg.jpeg) 0 -195px no-repeat;*/
-    background: #000 url(https://files-cdn.cnblogs.com/files/fofade/me_top_bg.gif) center no-repeat;
+    background: #000 url(https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/me_top_bg.gif) center no-repeat;
     background-size: 100%;
 }
 
@@ -3860,7 +3860,7 @@ span.cnblogs_code {
 }
 
 .tbCommentBody_bg {
-    background: url('https://files-cdn.cnblogs.com/files/fofade/commentHintBg.gif') center center no-repeat;
+    background: url('https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/commentHintBg.gif') center center no-repeat;
 }
 
 .commentbox_main {
@@ -3887,9 +3887,9 @@ span.cnblogs_code {
 .list .out .icon,.list .inc .icon{width:48px;height:48px;}
 .list .icontd {width:48px;}
 .list .out .icontd{display:none;}
-.list .out .topleft,.list .out .topright,.list .out .bottomleft,.list .out .bottomright,.list .inc .topleft,.list .inc .topright,.list .inc .bottomleft,.list .inc .bottomright{background: url(https://files-cdn.cnblogs.com/files/fofade/t_o_bubbles.gif) no-repeat;}
-.list .out .top,.list .out .bottom,.list .inc .top,.list .inc .bottom{background:transparent url(https://files-cdn.cnblogs.com/files/fofade/t_o_horizontal.gif) repeat-x;}
-.list .out .left,.list .out .right,.list .inc .left,.list .inc .right{background:transparent url(https://files-cdn.cnblogs.com/files/fofade/t_o_vertical.gif) repeat-y;}
+.list .out .topleft,.list .out .topright,.list .out .bottomleft,.list .out .bottomright,.list .inc .topleft,.list .inc .topright,.list .inc .bottomleft,.list .inc .bottomright{background: url(https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/t_o_bubbles.gif) no-repeat;}
+.list .out .top,.list .out .bottom,.list .inc .top,.list .inc .bottom{background:transparent url(https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/t_o_horizontal.gif) repeat-x;}
+.list .out .left,.list .out .right,.list .inc .left,.list .inc .right{background:transparent url(https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes/img/cnblog/t_o_vertical.gif) repeat-y;}
 
 .list .out .topleft{background-position:left top;height:9px;width:18px;}
 .list .out .topright{background-position:-18px top;height:9px;width:11px;}
