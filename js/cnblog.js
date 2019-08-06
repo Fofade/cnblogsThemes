@@ -1,3 +1,4 @@
+jQuery.support.cors = true;
 function addImage() {
     var spen_html = '<span class=\'bot\' ></span>\
                          <span class=\'top\'></span>';
