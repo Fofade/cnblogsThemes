@@ -14,7 +14,7 @@
 ```bash
 <!-- 看板娘-->
 <script src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/live2dw/lib/L2Dwidget.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/master/live2dw/lib/L2Dwidget.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Fofade/cnblogsThemes@1.1/live2dw/lib/L2Dwidget.0.min.js"></script>
 <script>
     L2Dwidget.init({
         "model": {
@@ -53,4 +53,4 @@ live2dw内的文件是由hexo自动生成的
 如果需要换模型最简单的办法是去别人的博客看页面源码，把它的对应链接拷过来！
 当然也可以自己生成，建议自己生成！
 
-注意：链接拷贝过来一定要先在浏览器中验证一下
+注意：由于浏览器的跨域限制，对于自行引入的看板娘js应当使用cdn(推荐使用jsDeliver+Github)
