@@ -59,7 +59,7 @@ $(document).ready(function(){
         bottom_html += '<a href="'+articleSource+'" target="_blank">'+articleAuthor+'</a></span></strong> <br>';
         bottom_html += '<span style="font-weight: bold; white-space:nowrap;">出　　处</span>：<a href="'+articleSource+'" target="_blank">'+articleSource+'</a>';
     } else if ( window.location.href.search("www.cnblogs.com/fofade") != -1 ) {
-        bottom_html += '<a href="http://www.cnblogs.com/fofade/" target="_blank">BNDong</a></span></strong> <br>';
+        bottom_html += '<a href="http://www.cnblogs.com/fofade/" target="_blank">fofade</a></span></strong> <br>';
         bottom_html += '<span style="font-weight: bold; white-space:nowrap;">出　　处</span>：<a href="http://www.cnblogs.com/fofade/" target="_blank">http://www.cnblogs.com/fofade/</a>';
     } else {
         var str = window.cnblogsConfig.blogUser;
