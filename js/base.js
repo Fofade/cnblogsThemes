@@ -724,7 +724,7 @@ function Base() {
         pvHtml += '<div id="cnzzInfo"></div>';
         $('#footer').append(pvHtml).prepend('<div class="footer-image"></div>');
 
-        if (window.cnblogsConfig.themeAuthor && window.location.href.search("www.cnblogs.com/bndong") == -1 ) setTheme();
+        if (window.cnblogsConfig.themeAuthor && window.location.href.search("www.cnblogs.com/fofade") == -1 ) setTheme();
 
         window.setInterval( setRunTime, 500 );
         setBlogroll();
@@ -733,7 +733,7 @@ function Base() {
 
         function setRunTime() {
             var str = window.cnblogsConfig.blogStartDate;
-            str = str ? str : '2016-11-17';
+            str = str ? str : '2019-01-07';
             var runDate = tools.getRunDate(str);
             $('#blogRunTimeSpan').text('This blog has running : '+runDate.daysold+' d '+runDate.hrsold+' h '+runDate.minsold+' m '+runDate.seconds+' s');
         }
