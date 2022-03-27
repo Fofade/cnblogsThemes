@@ -1,6 +1,6 @@
 const options = {
     version:'3.0.0',
-    avatar: null,
+    avatar: 'https://pic.cnblogs.com/avatar/1571096/20190105162411.png',
     favicon: null,
     github: 'https://github.com/Fofade',
     defaultMode: 'dark',
@@ -9,11 +9,11 @@ const options = {
     showNavAdmin: true,
     hljsln: true,
     catalog: {
-        enable: false,
+        enable: true,
         index: true,
         active: false,
         levels: ['h2', 'h3', 'h4']
-    },
+    },  
     signature: {
         enable: true,
         author: null,
